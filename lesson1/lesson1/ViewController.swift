@@ -13,5 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("стирай этот метод и пиши код сюда")
+        print("meme")
     }
 }
